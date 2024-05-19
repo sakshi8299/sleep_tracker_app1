@@ -37,7 +37,7 @@ else users's data will be deleted
 
 ### MongoDb compass
 
-![Screenshot (3925)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/8aa0f42e-9409-4e9d-a7f5-c79273b5ea6b)
+![Screenshot (3925)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/12f15567-0ae3-4b46-98e0-43fe928c898c)
 
 
 ## TESTING
