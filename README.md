@@ -4,12 +4,13 @@
 
 1. npm i
 2. npm start <br/>
-   Database used is MongoDb compass.
    
 ![Screenshot (3923)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/3e4446b4-361c-41d5-a8f9-24e6c3b0e922)
    
 ## POST,GET, DELETE
-Used Thunder Client VS code extension to check API endpoints.
+
+Used Thunder Client VS code extension to check API endpoints.<br/>
+Database used is MongoDb compass.
 
 ### POST
 ![Screenshot (3918)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/37ecf411-2bda-4ca6-b9cc-0121457a7387)
