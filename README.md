@@ -29,4 +29,5 @@ else data will be deleted
 
 ## TESTING
 used jest for testing
+1. Run npm test
 ![Screenshot (3924)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/1458b00a-50dd-4b33-936f-c0d49ee2ae8c)
