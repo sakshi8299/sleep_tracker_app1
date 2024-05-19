@@ -7,9 +7,9 @@
    
 ![Screenshot (3923)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/3e4446b4-361c-41d5-a8f9-24e6c3b0e922)
    
-## POST,GET, DELETE
+## API Endpoints- POST,GET, DELETE
 
-Used Thunder Client VS code extension to check API endpoints.<br/>
+Used Thunder Client Visual code extension to check API endpoints.<br/>
 Database used is MongoDb compass.
 
 ### POST
