@@ -1,4 +1,6 @@
 # REST API for a Sleep Tracker App
+##### **Objective:**
+Developed a RESTful API using Node.js and Express that allows a mobile app to store and retrieve user sleep data.
 
 ## To start the project in localhost:
 Run in terminal<br/>
