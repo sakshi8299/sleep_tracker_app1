@@ -31,13 +31,13 @@ Added user_01 three times with different timestamp.
 
 
 ### GET
-Will get info of each users in acsending order of timestamp.eg (user_01's data is shown in acsending order of timestamp three times)
+Will show sleep record of each users in acsending order of timestamp.eg (user_01's data is shown in acsending order of timestamp three times)
 
 ![Screenshot (3922)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/c86aa588-dc5b-4f12-97a4-e7013ef8ad1f)
 
 
 ### DELETE
-if user doesnot exist it will show " sleep record not found"
+if user does not exist it will show " sleep record not found"
 
 ![Screenshot (3916)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/61dc4506-27bb-48db-b21c-89f5d02c0905)
 
@@ -52,7 +52,7 @@ else users's data will be deleted
 
 ## TESTING
 used jest for testing<br/>
-Run in terminal
+**Run in terminal**
 1. npm test
    
 ![Screenshot (3924)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/911902c5-4c35-4a43-8536-643509613648)
