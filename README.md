@@ -4,7 +4,7 @@ Developed a RESTful API using Node.js and Express that allows a mobile app to st
 1. **API Endpoints:**
     - **POST `/sleep`:** Allows users to submit their sleep duration along with a timestamp.
         - Accepts JSON data including **`userId`**, **`hours`**, and **`timestamp`**.
-        - Stores the data in a database (you can use a simple in-memory array if setting up a database is too complex for this exercise).
+        - Stores the data in a database (Used MongoDb).
     - **GET `/sleep/:userId`:** Retrieves a list of all sleep records for a given user, sorted by date.
     - **DELETE `/sleep/:recordId`:** Deletes a specific sleep record by its ID.
   
