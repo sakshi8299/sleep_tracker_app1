@@ -10,7 +10,7 @@ Developed a RESTful API using Node.js and Express that allows a mobile app to st
   
       
 ## To start the project in localhost:
-Run in terminal<br/>
+**Run in terminal**
 
 1. npm i
 2. npm start <br/>
