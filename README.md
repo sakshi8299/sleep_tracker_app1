@@ -1,6 +1,7 @@
 # REST API for a Sleep Tracker App
 
 ## To start the project in localhost:
+Run in terminal
 
 1. npm i
 2. npm start <br/>
@@ -41,7 +42,7 @@ else users's data will be deleted
 
 ## TESTING
 used jest for testing
-
-1. Run npm test
+Run in terminal
+1. npm test
    
 ![Screenshot (3924)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/911902c5-4c35-4a43-8536-643509613648)
