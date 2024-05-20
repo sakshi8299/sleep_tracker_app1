@@ -23,7 +23,7 @@ Added user_01 three times with different timestamp.
 ### GET
 Will get info of each users in acsending order of timestamp.eg (user_01's data is shown in acsending order of timestamp three times)
 
-![Screenshot (3922)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/2c819b68-b80f-491f-96b4-4f59b16b868d)
+![Screenshot (3922)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/c86aa588-dc5b-4f12-97a4-e7013ef8ad1f)
 
 
 ### DELETE
