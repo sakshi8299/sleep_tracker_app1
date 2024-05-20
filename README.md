@@ -1,7 +1,7 @@
 # REST API for a Sleep Tracker App
 
 ## To start the project in localhost:
-Run in terminal
+Run in terminal<br/>
 
 1. npm i
 2. npm start <br/>
@@ -15,6 +15,7 @@ Database used is MongoDb compass.
 
 ### POST
 Added user_01 three times with different timestamp.
+
 ![Screenshot (3918)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/4a25b136-4d9b-43e1-b274-beefdc8ab86e)
 ![Screenshot (3919)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/4f10554a-3535-4029-bc60-f1de020673dd)
 ![Screenshot (3921)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/19d00472-644d-421a-a75a-70f4b4a218a2)
@@ -41,7 +42,7 @@ else users's data will be deleted
 
 
 ## TESTING
-used jest for testing
+used jest for testing<br/>
 Run in terminal
 1. npm test
    
