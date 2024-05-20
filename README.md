@@ -28,11 +28,11 @@ Will get info of each users in acsending order of timestamp.eg (user_01's data i
 ### DELETE
 if user doesnot exist it will show " sleep record not found"
 
-![Screenshot (3916)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/4f90ac98-92c5-4a82-89de-56d246528c9e)
+![Screenshot (3916)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/61dc4506-27bb-48db-b21c-89f5d02c0905)
 
 else users's data will be deleted
 
-![Screenshot (3915)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/fb180cf3-5725-4dc3-a6ae-bf2bc742d640)
+![Screenshot (3915)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/24ca1b9f-4ad4-4292-8666-a4215a762bf9)
 
 ### MongoDb compass
 
@@ -44,4 +44,4 @@ used jest for testing
 
 1. Run npm test
    
-![Screenshot (3924)](https://github.com/sakshi8299/sleep_tracker_app/assets/78993444/1458b00a-50dd-4b33-936f-c0d49ee2ae8c)
+![Screenshot (3924)](https://github.com/sakshi8299/sleep_tracker_app1/assets/78993444/911902c5-4c35-4a43-8536-643509613648)
